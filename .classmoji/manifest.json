@@ -1,0 +1,58 @@
+{
+  "repositories": {
+    "laboratoiredepreparation": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "eecc8673-0b35-4d8b-adca-1515413ba03f": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "tp1partie1": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "949da44d-e3d9-4768-b3a4-504d5d61cb55": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "tp1partie2": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "636fa1c7-eb2b-44c9-bc5e-858ad859dea4": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "tp2hierarchiedeclasses": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "2025a9fb-636c-4f26-8fbb-c524638e488c": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "tp3integration": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "48ab74c0-1508-414f-8e4e-9dbea0875477": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [],
+    "slides": []
+  }
+}
