@@ -3,7 +3,12 @@
     "tp1part2": {
       "pages": [],
       "slides": [],
-      "assignments": {}
+      "assignments": {
+        "tp1part2": {
+          "pages": [],
+          "slides": []
+        }
+      }
     },
     "laboratoiredepreparation": {
       "pages": [],
